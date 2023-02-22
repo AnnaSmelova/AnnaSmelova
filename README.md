@@ -2,9 +2,9 @@
 
 ### Github Stats:
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=AnnaSmelova" alt="AnnaSmelova" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=AnnaSmelova&show_icons=true&theme=vue" width="500">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaSmelova)](https://github.com/AnnaSmelova/github-readme-stats) 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaSmelova&hide_progress=true&theme=vue" width="500">
 
 ### Leetcode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AnnaSmelova?cache=0)
