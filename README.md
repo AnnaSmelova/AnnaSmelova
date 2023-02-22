@@ -1,6 +1,6 @@
 ### Hi, I'm Anna 👋
 
-<a href="https://github.com/AnnaSmelova/Data_Science_Portfolio/blob/main/README.md">**My Data Science Portfolio**</a>
+### <a href="https://github.com/AnnaSmelova/Data_Science_Portfolio/blob/main/README.md">**My Data Science Portfolio**</a>
 
 ### Github Stats:
 <p><img src="https://github-readme-stats.vercel.app/api?username=AnnaSmelova&show_icons=true&theme=vue" width="400" height="200">
