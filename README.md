@@ -2,12 +2,11 @@
 
 ### Github Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnnaSmelova&show_icons=true&theme=vue" width="500">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaSmelova&hide_progress=true&theme=vue" width="500">
+<p><img src="https://github-readme-stats.vercel.app/api?username=AnnaSmelova&show_icons=true&theme=vue" width="500" height=200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaSmelova&hide_progress=true&theme=vue" width="500" height="200"></p>
 
 ### Leetcode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/AnnaSmelova?cache=0)
+<p><img src="https://leetcard.jacoblin.cool/AnnaSmelova?cache=0" width="500" height=200"></p>
 
 ![](https://komarev.com/ghpvc/?username=AnnaSmelova&color=038557)
 
