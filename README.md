@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Anna 👋
+
+### Github Stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnnaSmelova)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaSmelova)](https://github.com/AnnaSmelova/github-readme-stats) 
+
+### Leetcode Stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/AnnaSmelova?cache=0)
+
+![](https://komarev.com/ghpvc/?username=AnnaSmelova&color=038557)
 
 <!--
 **AnnaSmelova/AnnaSmelova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
