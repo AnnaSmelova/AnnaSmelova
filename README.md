@@ -4,8 +4,8 @@
 
 ### Github Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnnaSmelova&show_icons=true&hide_border=true&theme=vue" width="400" height="200">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaSmelova&hide_progress=true&hide_border=true&theme=vue" width="400" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=AnnaSmelova&show_icons=true&hide_border=true&theme=vue&background=FFFFFF00" width="400" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaSmelova&hide_progress=true&hide_border=true&theme=vue&background=FFFFFF00" width="400" height="200">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=AnnaSmelova&theme=vue&hide_border=true&background=FFFFFF00">
 </p>
 
